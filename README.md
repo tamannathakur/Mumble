@@ -67,7 +67,7 @@ or
 
 ```
 
-npx expo sart -c 
+npx expo start -c 
 
 
 ```
