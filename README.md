@@ -33,7 +33,7 @@ Redeem vouchers using earned points.
 
 View all your saved outfits.
 
-## Installation and usage
+## Installation
 
 **Prerequisites**:
 
@@ -75,6 +75,6 @@ The following will show up in the terminal, to run the app, install expo/ expo g
 
 ![image](https://github.com/user-attachments/assets/cfac0a52-ca92-4e2c-92f2-b28c968ac251)
 
-scan the newly shown qr code(the one which will show up in your terminal)
+Scan the newly shown qr code(the one which will show up in your terminal)
 
 The app will start running on your phone.
