@@ -39,7 +39,7 @@ Mumble is a React Native application frontend that allows users to swipe through
 
 Ensure you have Node.js and npm installed on your machine.
 
-This project works fine for iOS but in Android version there are serious UI problems because I've only worked on iOS.
+This project works fine for iOS but in Android version it may look a little different because I've only worked on iOS.
 
 
 ### Running the project
