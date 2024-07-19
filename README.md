@@ -73,6 +73,8 @@ npx expo sart -c
 ```
 The following will show up in the terminal, to run the app, install expo/ expo go(available on playstore and apple store):
 
+![image](https://github.com/user-attachments/assets/cfac0a52-ca92-4e2c-92f2-b28c968ac251)
 
 scan the newly shown qr code(the one which will show up in your terminal)
+
 The app will start running on your phone.
