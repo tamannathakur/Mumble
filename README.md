@@ -81,7 +81,7 @@ The app will start running on your phone.
 
 ## Project Structure
 
-\```plaintext
+```plaintext
 ├── AddOutfitScreen.js       # Screen to upload new outfits
 ├── App.js                   # Main application file
 ├── HomeScreen.js            # Screen for swiping through outfits
@@ -94,4 +94,3 @@ The app will start running on your phone.
 ├── android                  # Platform-specific folder for Android builds
 ├── ios                      # Platform-specific folder for iOS builds
 └── ...
-\```
