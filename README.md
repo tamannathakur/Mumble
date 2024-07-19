@@ -32,3 +32,47 @@ Redeem vouchers using earned points.
 ./Saved Outfits Screen
 
 View all your saved outfits.
+
+## Installation and usage
+
+**Prerequisites**:
+
+Ensure you have Node.js and npm installed on your machine.
+
+This project works fine for iOS but in Android version there are serious UI problems because I've only worked on iOS.
+
+
+### Running the project
+
+Clone this repository :
+
+```
+git clone https://github.com/tamannathakur/Mumble
+cd mumble
+```
+
+Install packages :
+
+```
+npm install
+```
+
+When installation is complete, run :
+
+```
+npm start 
+
+```
+or 
+
+```
+
+npx expo sart -c 
+
+
+```
+The following will show up in the terminal, to run the app, install expo/ expo go(available on playstore and apple store):
+
+
+scan the newly shown qr code(the one which will show up in your terminal)
+The app will start running on your phone.
