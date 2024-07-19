@@ -2,9 +2,12 @@
 your bumble for clothes
 
 
-
 Watch the demo video below:
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ffdaK-kzgeg&pp=ygUKNTAgc2VjIHZpZA%3D%3D" frameborder="0" allowfullscreen></iframe>
-</div>
+<video width="640" height="360" controls>
+  <source src="https://github.com/tamannathakur/Mumble/raw/main/app_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
